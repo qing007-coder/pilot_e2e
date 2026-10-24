@@ -1,0 +1,9 @@
+﻿numpy
+scipy
+PyYAML
+tensorboard
+pytest
+ruff
+tqdm
+matplotlib
+Pillow
