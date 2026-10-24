@@ -1,0 +1,14 @@
+name: pilot_e2e
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - numpy
+  - scipy
+  - pyyaml
+  - pytest
+  - pip:
+      - tensorboard
+      - ruff
+      - pyyaml
